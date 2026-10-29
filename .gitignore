@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+
+# keep the folders, not their contents
+input/*
+!input/.gitkeep
+output/*
+!output/.gitkeep
+
+dist/

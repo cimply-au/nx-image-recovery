@@ -1,0 +1,7 @@
+* text=auto
+*.bat text eol=crlf
+*.md  text eol=crlf
+
+# not needed in the release zip
+.gitignore     export-ignore
+.gitattributes export-ignore
